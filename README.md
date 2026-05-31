@@ -1,12 +1,12 @@
 # Technical Interview Prep Toolkit
 
-Candidate-friendly technical interview prep resources, checklists, coding practice links, and recruiter-shareable guides.
+Technical interview prep for real humans - not just algorithm machines.
 
-Technical interviews can be overwhelming, especially when candidates are handed a pile of links with no context.
+This is a practical, candidate-friendly toolkit for preparing for technical interviews across software, data, ML/AI, systems, hardware, semiconductor, and engineering leadership roles.
 
-This toolkit organizes practical prep resources into a simple path: coding practice, system design, behavioral prep, recruiter screens, and ongoing learning.
+Technical interviews can be overwhelming, especially when candidates are handed a pile of links with no context. This toolkit organizes prep into a clearer path: what kind of interview you are walking into, what to practice, how to communicate your thinking, and how to advocate for yourself along the way.
 
-Built from a recruiting and sourcing perspective, this is meant to be useful, shareable, and human - not another intimidating mega-list.
+Built from a recruiting, sourcing, and talent intelligence perspective, this is meant to be useful, shareable, and human - not another intimidating mega-list.
 
 ## Who this is for
 
@@ -14,24 +14,33 @@ Built from a recruiting and sourcing perspective, this is meant to be useful, sh
 - **Recruiters and sourcers** who want better prep materials to share with candidates
 - **Hiring teams** who want to reduce ambiguity and improve candidate experience
 - **Career changers and early-career engineers** looking for a practical starting point
+- **Neurodivergent candidates** who may benefit from clearer structure, scripts, and self-advocacy tools
 
 ## Start here
 
 If you only have a few days before an interview, do not try to boil the ocean. Focus on the highest-signal prep:
 
 1. Clarify the interview format
-2. Review common coding patterns
+2. Review common coding or role-specific patterns
 3. Practice explaining your thinking out loud
 4. Prepare 3-5 project stories
-5. Review the company, product, team, or technical domain
+5. Research the company, product, team, or technical domain
 6. Prepare thoughtful questions for the interviewer
+7. Know how to recover if you get stuck
 
 ## Quick links
 
 | Guide | Use this when |
 |---|---|
 | [Candidate Checklist](candidate-checklist.md) | You want a short, practical pre-interview checklist |
+| [Technical Interview Types](technical-interview-types.md) | You need to understand the difference between recruiter screens, coding, system design, project deep dives, and behavioral interviews |
 | [Prep by Role](prep-by-role.md) | You want role-specific prep guidance |
+| [Engineering Story Bank](engineering-story-bank.md) | You need stronger project stories and examples |
+| [Company Research Template](company-research-template.md) | You want to prepare beyond the job description |
+| [System Design Answer Framework](system-design-answer-framework.md) | You need a repeatable structure for system design interviews |
+| [Questions to Ask Interviewers](questions-to-ask-interviewers.md) | You want better questions than “what is the culture like?” |
+| [Virtual Interview Survival Guide](virtual-interview-survival-guide.md) | You are interviewing remotely and want fewer surprises |
+| [Accessible Technical Interviews](accessible-technical-interviews.md) | You need clearer prep, accommodation scripts, or neurodivergent-friendly guidance |
 | [Recruiter Guide](recruiter-guide.md) | You are sharing prep resources with candidates |
 | [Resources](resources.md) | You want curated links and learning resources |
 | [Contributing](CONTRIBUTING.md) | You want to suggest a resource or improvement |
@@ -47,6 +56,7 @@ Focus on:
 - Speaking your thought process out loud
 - Preparing project examples
 - Writing down questions for the team
+- Testing your virtual setup
 
 Do not cram 200 problems. That is panic wearing a fake mustache.
 
@@ -57,8 +67,9 @@ Focus on:
 - Daily coding practice by pattern
 - System design fundamentals
 - Mock interviews or timed practice
-- Behavioral stories using STAR or CAR
+- Behavioral stories using STAR, CAR, or the project story bank
 - Company and role-specific prep
+- A stronger question list for evaluating fit
 
 ### I am a recruiter sharing this with a candidate
 
@@ -91,7 +102,9 @@ System design interviews usually test how you reason through tradeoffs, scale, r
 
 Common focus areas:
 
+- Requirements and constraints
 - APIs
+- Data models
 - Databases
 - Caching
 - Load balancing
@@ -100,6 +113,8 @@ Common focus areas:
 - Latency and throughput
 - Observability
 - Tradeoff communication
+
+Start with the [System Design Answer Framework](system-design-answer-framework.md).
 
 ### Behavioral interview prep
 
@@ -114,6 +129,8 @@ Prepare stories about:
 - A time you improved a system or process
 - A cross-functional collaboration
 - A time you had to learn something quickly
+
+Start with the [Engineering Story Bank](engineering-story-bank.md).
 
 ### Recruiter screen prep
 
