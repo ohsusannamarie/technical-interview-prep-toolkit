@@ -4,6 +4,13 @@ Different technical interviews measure different things. Prep should match the r
 
 Use this guide to focus your preparation instead of trying to study everything at once.
 
+## How to use this guide
+
+1. Find the role closest to the interview you are preparing for.
+2. Review the focus areas.
+3. Pick 1-2 projects or examples that prove those skills.
+4. Practice explaining your decisions, tradeoffs, and impact out loud.
+
 ## Software Engineer
 
 Focus areas:
@@ -28,6 +35,10 @@ Good prep:
 - Practice common coding patterns
 - Review one or two projects deeply
 - Practice explaining tradeoffs out loud
+
+Strong signal:
+
+- You can solve problems clearly, explain your assumptions, and write code that another human can understand.
 
 ## Frontend Engineer
 
@@ -57,6 +68,10 @@ Good prep:
 - Be ready to explain how you structured components
 - Practice discussing tradeoffs between usability, speed, and maintainability
 
+Strong signal:
+
+- You can connect technical implementation to user experience.
+
 ## Backend Engineer
 
 Focus areas:
@@ -85,6 +100,10 @@ Good prep:
 - Prepare a project where you owned backend architecture or service design
 - Practice explaining tradeoffs clearly
 
+Strong signal:
+
+- You can reason through scale, failure, data flow, and maintainability without pretending every system is magic.
+
 ## Full Stack Engineer
 
 Focus areas:
@@ -108,6 +127,10 @@ Good prep:
 
 - Prepare one project that shows both product impact and technical depth
 - Practice explaining the full flow from user action to data persistence
+
+Strong signal:
+
+- You can move between layers without losing sight of the user or the system.
 
 ## Data Engineer
 
@@ -138,6 +161,10 @@ Good prep:
 - Prepare examples of data pipelines you built or improved
 - Be ready to explain how you handled messy data
 
+Strong signal:
+
+- You can build data systems people can trust.
+
 ## ML / AI Engineer
 
 Focus areas:
@@ -165,6 +192,10 @@ Good prep:
 - Prepare one project with clear problem, data, approach, tradeoffs, and results
 - Review common ML metrics and when to use them
 - Practice explaining technical work to non-technical stakeholders
+
+Strong signal:
+
+- You can explain not only what you built, but why it was the right approach for the problem.
 
 ## DevOps / SRE
 
@@ -195,6 +226,10 @@ Good prep:
 - Review infrastructure decisions you have made
 - Practice explaining root cause, mitigation, and prevention
 
+Strong signal:
+
+- You can keep systems healthy, explain failure clearly, and improve reliability without creating process theater.
+
 ## Hardware / Semiconductor Engineer
 
 Focus areas will vary by specialty, but may include:
@@ -224,6 +259,10 @@ Good prep:
 - Prepare project examples with technical depth
 - Be ready to explain your work clearly to both specialists and cross-functional partners
 
+Strong signal:
+
+- You can connect deep technical work to product, performance, quality, or schedule impact.
+
 ## Engineering Manager
 
 Focus areas:
@@ -252,6 +291,10 @@ Good prep:
 - Be ready to explain your management philosophy
 - Show how you balance people, product, and technical priorities
 
+Strong signal:
+
+- You can create clarity, make good tradeoffs, and help teams deliver without burning people into tiny professional croutons.
+
 ## Seniority lens
 
 ### Early career
@@ -265,6 +308,15 @@ Interviewers often look for:
 - Problem-solving approach
 - Curiosity
 
+Best examples:
+
+- School projects
+- Internships
+- Bootcamp projects
+- Personal projects
+- Volunteer or open-source work
+- Times you learned something quickly
+
 ### Mid-level
 
 Interviewers often look for:
@@ -275,6 +327,14 @@ Interviewers often look for:
 - Ownership of features or services
 - Debugging ability
 - Clear communication
+
+Best examples:
+
+- Features you owned
+- Bugs you solved
+- Projects you shipped
+- Cross-functional work
+- Process improvements
 
 ### Senior
 
@@ -288,6 +348,14 @@ Interviewers often look for:
 - Tradeoff communication
 - Ownership beyond assigned tasks
 
+Best examples:
+
+- Architecture decisions
+- Mentorship moments
+- Technical tradeoffs
+- Leading through ambiguity
+- Improving team or system outcomes
+
 ### Staff+ / Principal
 
 Interviewers often look for:
@@ -299,6 +367,26 @@ Interviewers often look for:
 - Deep expertise
 - Pattern recognition
 - Ability to simplify complexity
+
+Best examples:
+
+- Multi-team impact
+- Long-term technical strategy
+- Platform or architecture work
+- Technical alignment across groups
+- Preventing or resolving systemic problems
+
+## Universal prep questions
+
+No matter the role, prepare answers to these:
+
+- What is a project you are proud of?
+- What was technically difficult about it?
+- What tradeoffs did you make?
+- What would you do differently now?
+- How did you collaborate with others?
+- How did you handle ambiguity?
+- How did you measure success?
 
 ## The universal rule
 
