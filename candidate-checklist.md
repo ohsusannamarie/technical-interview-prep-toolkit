@@ -1,6 +1,16 @@
 # Candidate Interview Prep Checklist
 
-Use this as a practical pre-interview checklist. You do not need to do everything perfectly. The goal is to reduce ambiguity and walk in with a plan.
+A practical, candidate-friendly checklist for reducing interview ambiguity and walking in with a plan.
+
+You do **not** need to prepare perfectly. You need to understand the format, practice the right things, and be ready to show how you think.
+
+## Quick prep map
+
+| If your interview is in... | Focus on |
+|---|---|
+| 24-48 hours | Format clarity, project stories, basic coding patterns, questions for the team |
+| 3-5 days | Coding practice by pattern, system design basics, behavioral stories, company research |
+| 1-2 weeks | Timed practice, deeper role-specific review, mock interviews, stronger project walkthroughs |
 
 ## 1. Confirm the basics
 
@@ -18,6 +28,8 @@ Before you start preparing, make sure you know:
 
 Ask or confirm whether the interview includes:
 
+- [ ] Recruiter screen
+- [ ] Hiring manager conversation
 - [ ] Live coding
 - [ ] Take-home assignment
 - [ ] Pair programming
@@ -26,8 +38,7 @@ Ask or confirm whether the interview includes:
 - [ ] Architecture discussion
 - [ ] Past project deep dive
 - [ ] Behavioral interview
-- [ ] Hiring manager conversation
-- [ ] Recruiter screen
+- [ ] Panel interview
 
 ## 3. Clarify expectations
 
@@ -37,8 +48,9 @@ Try to understand:
 - [ ] Whether a specific programming language is required
 - [ ] Whether you can use documentation
 - [ ] Whether you need to share your screen
-- [ ] Whether the interviewer cares more about speed, accuracy, communication, or tradeoffs
-- [ ] Whether the role expects depth in a specific domain
+- [ ] Whether the interviewer cares more about speed, accuracy, communication, architecture, or tradeoffs
+- [ ] Whether the role expects depth in a specific technical domain
+- [ ] Whether the interview is calibrated to early, mid, senior, staff, or manager-level expectations
 
 ## 4. Coding prep
 
@@ -52,6 +64,7 @@ Focus on patterns before random volume.
 - [ ] Trees and graphs
 - [ ] Recursion
 - [ ] Sorting and searching
+- [ ] Dynamic programming basics, if relevant
 - [ ] Big O notation
 - [ ] Edge cases
 
@@ -71,7 +84,10 @@ Be ready to talk through:
 - [ ] Queues or messaging
 - [ ] Reliability
 - [ ] Observability
+- [ ] Security and privacy considerations, if relevant
 - [ ] Tradeoffs
+
+A strong system design answer is not just a diagram. It is a conversation about tradeoffs.
 
 ## 6. Behavioral prep
 
@@ -95,6 +111,7 @@ Useful story themes:
 - [ ] A time you influenced without authority
 - [ ] A time you learned something quickly
 - [ ] A time you improved a process, system, or team outcome
+- [ ] A time you handled ambiguity
 
 ## 7. Project deep dive prep
 
@@ -111,6 +128,18 @@ For each project, know:
 - [ ] Metrics, results, or impact
 - [ ] What you would improve now
 
+### Project story template
+
+```text
+The problem was...
+My role was...
+The main constraints were...
+I decided to...
+The tradeoff was...
+The result was...
+If I were doing it again, I would...
+```
+
 ## 8. Company and role prep
 
 Review:
@@ -122,6 +151,7 @@ Review:
 - [ ] Job description
 - [ ] Team or domain context
 - [ ] Technologies mentioned in the role
+- [ ] Competitors or market context, if relevant
 
 ## 9. Questions to ask
 
@@ -136,6 +166,7 @@ Examples:
 - What is the code review culture like?
 - How is technical debt handled?
 - What kind of person tends to thrive on this team?
+- What would make someone struggle in this role?
 
 ## 10. Day-of checklist
 
@@ -149,6 +180,20 @@ Before the interview:
 - [ ] Silence notifications
 - [ ] Join 2-3 minutes early
 - [ ] Take one actual breath before speaking
+
+## If you get stuck
+
+Getting stuck does not automatically mean you failed. Interviewers often care about how you respond.
+
+Try:
+
+- Restating the problem
+- Naming what you know
+- Asking a clarifying question
+- Talking through a simpler version first
+- Explaining the tradeoff you are considering
+- Checking edge cases
+- Summarizing where you are blocked
 
 ## Final reminder
 
