@@ -17,6 +17,16 @@ Useful prep answers four questions:
 3. What should the candidate focus on first?
 4. What does good communication look like in this process?
 
+## Recruiter prep flow
+
+| Step | Recruiter action | Candidate impact |
+|---|---|---|
+| 1 | Confirm the interview format | Reduces guessing |
+| 2 | Identify assessed skills | Helps candidate prioritize |
+| 3 | Share only relevant resources | Prevents link overload |
+| 4 | Set expectations for communication | Helps candidates show their thinking |
+| 5 | Invite clarifying questions | Builds trust and improves candidate experience |
+
 ## Before sending prep materials
 
 Clarify these details internally:
@@ -70,6 +80,28 @@ Please reach out if anything about the format is unclear. We want you to feel pr
 
 Best,
 [Recruiter]
+```
+
+## Shorter candidate prep note
+
+Use this when you need something quick but still useful.
+
+```text
+Hi [Name],
+
+For your upcoming interview, expect a conversation focused on [topic / format]. The team will be looking for [skills / signals], especially how you explain your thinking and work through tradeoffs.
+
+Best prep:
+- Review the role description
+- Prepare 1-2 relevant project examples
+- Practice talking through your approach out loud
+- Bring a few questions for the team
+
+Helpful resources:
+- [Resource]
+- [Resource]
+
+Let me know if anything feels unclear.
 ```
 
 ## What to avoid
@@ -155,6 +187,47 @@ Share guidance around:
 - Ambiguity
 - Learning agility
 - Ownership
+
+## Prep guidance by seniority
+
+### Early career
+
+Candidates may need clarity on:
+
+- Interview format
+- Basic expectations
+- Whether they can ask questions
+- How much experience depth is expected
+- How to discuss school, internship, bootcamp, or project work
+
+### Mid-level
+
+Candidates may need clarity on:
+
+- Scope expectations
+- Ownership examples
+- Role-specific technical depth
+- Collaboration with product, design, QA, or other teams
+
+### Senior
+
+Candidates may need clarity on:
+
+- Architecture expectations
+- Influence beyond assigned tasks
+- Mentorship expectations
+- Ambiguity and tradeoff discussion
+- Cross-functional leadership
+
+### Staff+ / Principal
+
+Candidates may need clarity on:
+
+- Organization-level impact
+- Technical strategy
+- Influence without direct authority
+- Systems thinking
+- Examples of simplifying complexity
 
 ## Candidate enablement checklist
 
