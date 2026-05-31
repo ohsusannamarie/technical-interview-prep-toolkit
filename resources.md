@@ -1,8 +1,18 @@
 # Technical Interview Prep Resources
 
-This is a curated resource list for candidates, recruiters, and hiring teams.
+A curated resource list for candidates, recruiters, sourcers, and hiring teams.
 
 The goal is not to collect every resource on the internet. The goal is to share resources that are practical, accessible, and easy to point candidates toward.
+
+## How to use this list
+
+| Need | Start with |
+|---|---|
+| Coding practice | LeetCode, HackerRank, NeetCode |
+| System design | System Design Primer, ByteByteGo, High Scalability |
+| Behavioral prep | STAR method resources, project story practice |
+| Technical communication | Mock interviews, project walkthroughs, explaining tradeoffs |
+| Recruiter-shareable prep | Candidate checklist, recruiter guide, prep by role |
 
 ## Coding practice
 
@@ -16,6 +26,11 @@ Best for:
 - Pattern recognition
 - Timed problem solving
 - Interview-style algorithm questions
+
+Notes:
+
+- Best used by pattern, not random panic-clicking.
+- Candidates short on time should prioritize common patterns over sheer problem count.
 
 ### HackerRank Interview Preparation Kit
 
@@ -90,6 +105,16 @@ Best for:
 - Scaling stories
 - Distributed systems patterns
 
+### Martin Fowler
+
+https://martinfowler.com/
+
+Best for:
+
+- Architecture thinking
+- Software design concepts
+- Refactoring, patterns, and technical leadership
+
 ## Behavioral interview prep
 
 ### STAR method overview
@@ -110,16 +135,21 @@ Best for:
 - Common behavioral questions
 - Candidate-friendly examples
 
+### Project story practice
+
+Use the project story template from the [Candidate Checklist](candidate-checklist.md):
+
+```text
+The problem was...
+My role was...
+The main constraints were...
+I decided to...
+The tradeoff was...
+The result was...
+If I were doing it again, I would...
+```
+
 ## Technical communication
-
-### The Engineering Manager: Technical Interviewing
-
-https://www.theengineeringmanager.com/
-
-Best for:
-
-- Engineering career and interview thinking
-- Leadership perspective
 
 ### Google: Technical Development Guide
 
@@ -130,6 +160,25 @@ Best for:
 - Foundational CS practice
 - Learning paths
 - Supplemental practice
+
+### The Engineering Manager
+
+https://www.theengineeringmanager.com/
+
+Best for:
+
+- Engineering career and interview thinking
+- Leadership perspective
+
+### Pragmatic Engineer
+
+https://newsletter.pragmaticengineer.com/
+
+Best for:
+
+- Engineering career context
+- Senior engineering expectations
+- Practical industry perspective
 
 ## Books
 
@@ -162,6 +211,16 @@ Best for:
 
 - System design interview preparation
 - Practical architecture examples
+
+### The Staff Engineer's Path
+
+https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/
+
+Best for:
+
+- Senior, staff, and principal engineering career growth
+- Influence without authority
+- Technical leadership
 
 ## Courses and learning platforms
 
@@ -205,6 +264,16 @@ Best for:
 - Web development fundamentals
 - Practice projects
 
+### Khan Academy Computer Programming
+
+https://www.khanacademy.org/computing/computer-programming
+
+Best for:
+
+- Beginner-friendly fundamentals
+- Visual explanations
+- Early-career or career-change prep
+
 ## YouTube and video resources
 
 ### Google coding interview example
@@ -234,6 +303,37 @@ Best for:
 - System design concepts
 - Architecture explanations
 
+### Exponent
+
+https://www.youtube.com/c/ExponentTV
+
+Best for:
+
+- Mock interview examples
+- Product, engineering, and behavioral interview prep
+
+## Hardware / semiconductor prep
+
+Hardware and semiconductor interview prep is more domain-specific, so candidates should align prep to the role description.
+
+Useful focus areas:
+
+- Digital design fundamentals
+- Analog / mixed signal basics
+- Verification methodology
+- Physical design flow
+- Timing closure
+- Signal integrity
+- Power, performance, and area tradeoffs
+- Debugging stories
+- Tooling and methodology experience
+
+Good prep includes:
+
+- Reviewing the job description for domain signals
+- Preparing one deep technical project story
+- Practicing how to explain work to both technical specialists and cross-functional partners
+
 ## Recruiter-shareable resources
 
 Use these when sending candidate prep:
@@ -251,5 +351,6 @@ A good prep resource should be:
 - Practical for the candidate's timeline
 - Relevant to the interview format
 - Not unnecessarily overwhelming
+- Honest about whether it is free, paid, beginner-friendly, or advanced
 
 A giant list with no context is not a prep strategy. It is a digital junk drawer with better branding.
