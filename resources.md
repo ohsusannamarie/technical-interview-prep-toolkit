@@ -135,6 +135,22 @@ Best for:
 - Common behavioral questions
 - Candidate-friendly examples
 
+### MockLive: Interview follow-up checklist
+
+https://makeinterview.com/en/blog/mianshi-zhuishao-yuanxing
+
+Best for:
+
+- Finding details missing from a project story
+- Separating personal contributions from team results
+- Practising explanations of decisions and measurements
+
+Notes:
+
+- Free written guide with five follow-up patterns and a self-check; no account or purchase required.
+- Published by MockLive's makers. The examples are from a disclosed scripted product test, not real candidate outcomes.
+- Use the checklist with your own work examples. It does not require MockLive's live interview service, which is currently paused.
+
 ### Project story practice
 
 Use the project story template from the [Candidate Checklist](candidate-checklist.md):
