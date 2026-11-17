@@ -274,6 +274,20 @@ Best for:
 - Visual explanations
 - Early-career or career-change prep
 
+### TestLab Interview Questions
+
+https://testlabapp.com/interview-questions
+
+Best for:
+
+- Reviewing CS fundamentals (operating systems, DBMS, networks) and stack-specific concepts
+- Practising short spoken answers, with a fuller explanation for follow-up questions
+- Checking fundamentals quickly with multiple-choice practice tests
+
+Notes:
+
+- MCQ practice tests are free. A few full interview answers are free to read; full access to the interview questions is a paid plan.
+
 ## YouTube and video resources
 
 ### Google coding interview example
