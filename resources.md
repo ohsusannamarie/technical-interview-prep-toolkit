@@ -161,6 +161,20 @@ Best for:
 - Learning paths
 - Supplemental practice
 
+### Questions for an AI leadership interview
+
+https://caio.pro/ai-leadership-role-guide.html
+
+Best for:
+
+- Asking about decision rights and executive sponsorship
+- Clarifying team, budget, data access and governance
+- Discussing first-year expectations with a prospective employer
+
+Notes:
+
+- Free to read without an account. Written for candidates assessing AI leadership roles; the site also operates a job board with paid featured placements.
+
 ### The Engineering Manager
 
 https://www.theengineeringmanager.com/
